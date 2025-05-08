@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #dce6eb;
+}
+
+.gradient {
+    background: linear-gradient(120deg, rgb(1, 1, 117), #4570b6);
+}
+
+.step-links {
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.step-file {
+    border: 1px dashed #a09fa1;
+}
+
+nav button {
+    width: 40px;
+    aspect-ratio: 1;
+}
